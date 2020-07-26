@@ -1,6 +1,6 @@
-# [`coding.blog`](https://coding.blog) boilerplate
+# [`coding.blog`](https://davelush.coding.blog) source code
 
-Starter project for [`coding.blog`](https://coding.blog) blogs.
+This is the source for https://davelush.coding.blog and is a fork of the starter project for [`coding.blog`](https://coding.blog) blogs.
 
 ## Prerequisites
 

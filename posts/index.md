@@ -9,19 +9,21 @@
 
 > :Title
 >
-> Sample Blog
+> davelush.coding.blog
 
-This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
-it to showcase your latest / most-important blog posts (or whatever suites your case).
-You can modify its content by editting `posts/index.md`.
+This is the `coding.blog` for [Dave Lush](https://www.linkedin.com/in/david-lush-9aba716/). I've dabbled with pieces of 
+content on my [Medium profile](https://medium.com/@dave.lush) over the past few years but the mission statement for 
+https://coding.blog/ has grabbed me.
+
+I'm here to give it a try :+1: 
 
 ---
 
 # Latest Posts
 
-So here are the latest posts:
+Here are my latest posts:
 
-> :ArticleCard src=/sample-blog-post, style=box
+> :ArticleCard src=/welcome, style=box
 
 > :ArticleCard src=/sample-blog-post, style=box
 
