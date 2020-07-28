@@ -23,7 +23,7 @@ I'm here to give it a try :+1:
 
 Here are my latest posts:
 
-> :ArticleCard src=/welcome, style=box
+> :ArticleCard src=/why, style=box
 
 > :ArticleCard src=/sample-blog-post, style=box
 
