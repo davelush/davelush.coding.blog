@@ -53,9 +53,6 @@ about the tools at your displosal for blogging.
 
 <br><br>
 
-> :Author name=Dave Lush,
->         date=today,
->         url=https://github.com/davelush/
->         src=https://avatars3.githubusercontent.com/u/9286803?s=460&v=4
+> :Author src=github
 
 > :ToCPrevNext
