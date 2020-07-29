@@ -86,4 +86,4 @@ I hope the team accumulate minimal costs and can afford to keep the platform adv
 >
 > > :InLight
 > >
-> > _Hero image by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters) from [Unsplash](https://unsplash.com)_
+> > _Hero image by [Heidi Fin](https://unsplash.com/@heidifin) from [Unsplash](https://unsplash.com)_

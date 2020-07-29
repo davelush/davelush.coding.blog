@@ -25,9 +25,7 @@ Here are my latest posts:
 
 > :ArticleCard src=/why, style=box
 
-> :ArticleCard src=/sample-blog-post, style=box
-
-> :ArticleCard src=/sample-blog-post
+> :ArticleCard src=/webcrawling, style=box
 
 > :ArticleCard src=/sample-blog-post
 
