@@ -15,7 +15,7 @@ This is the `coding.blog` for [Dave Lush](https://www.linkedin.com/in/david-lush
 content on my [Medium profile](https://medium.com/@dave.lush) over the past few years but the mission statement for 
 https://coding.blog/ has grabbed me.
 
-I'm here to give it a try :+1: 
+I'm here to give it a try 👍
 
 ---
 
@@ -44,7 +44,7 @@ of **CODEDOC** to learn more about how it works and how you can utilize it to cr
 Additionally, this boilerplate uses [`coding.blog` Plugin for **CODEDOC**](https://github.com/CONNECT-platform/coding-blog-plugin),
 which offers components and functionality specifically designed around writing blog-posts
 and publishing them to `coding.blog`. Checkout the documentation of that plugin to learn more
-about the tools at your displosal for blogging.
+about the tools at your disposal for blogging.
 
 > :Buttons
 > > :Button label=Plugin Docs, url=https://connect-platform.github.io/coding-blog-plugin/
